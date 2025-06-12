@@ -10,66 +10,66 @@ Deployed Application (**required**): [Music Playlist Explorer Deployed Site](ADD
 
 #### CORE FEATURES
 
-- [ ] **Display Playlists**
-  - [ ] Dynamically render playlists on the homepage using JavaScript.
-    - [ ] Playlists should be shown in grid view.
-    - [ ] Playlist images should be reasonably sized (at least 6 playlists on your laptop when full screen; large enough that the playlist components detailed in the next feature are legible).
-  - [ ] Fetch data from a provided Javascript file and use it to create interactive playlist tiles.
+- [X] **Display Playlists**
+  - [X] Dynamically render playlists on the homepage using JavaScript.
+    - [X] Playlists should be shown in grid view.
+    - [X] Playlist images should be reasonably sized (at least 6 playlists on your laptop when full screen; large enough that the playlist components detailed in the next feature are legible).
+  - [X] Fetch data from a provided Javascript file and use it to create interactive playlist tiles.
 
-- [ ] **Playlist Components**
-  - [ ] Each tile should display the playlist's:
-    - [ ] Cover image
-    - [ ] Name
-    - [ ] Author
-    - [ ] Like count
+- [X] **Playlist Components**
+  - [X] Each tile should display the playlist's:
+    - [X] Cover image
+    - [X] Name
+    - [X] Author
+    - [X] Like count
 
-- [ ] **Playlist Details**
-  - [ ] Create a modal pop-up view that displays detailed information about a playlist when a user clicks on a playlist tile.
-  - [ ] The modal should show the playlist's:
-    - [ ] Cover image
-    - [ ] Name
-    - [ ] Author
-    - [ ] List of songs, including each song's:
-      - [ ] Title
-      - [ ] Artist
-      - [ ] Duration
-  - [ ] The modal itself should:
-    - [ ] Not occupy the entire screen.
-    - [ ] Have a shadow to show that it is a pop-up.
-    - [ ] Appear floating on the screen.
-    - [ ] The backdrop should appear darker or in a different shade.
+- [X] **Playlist Details**
+  - [X] Create a modal pop-up view that displays detailed information about a playlist when a user clicks on a playlist tile.
+  - [X] The modal should show the playlist's:
+    - [X] Cover image
+    - [X] Name
+    - [X] Author
+    - [X] List of songs, including each song's:
+      - [X] Title
+      - [X] Artist
+      - [X] Duration
+  - [X] The modal itself should:
+    - [X] Not occupy the entire screen.
+    - [X] Have a shadow to show that it is a pop-up.
+    - [X] Appear floating on the screen.
+    - [X] The backdrop should appear darker or in a different shade.
 
-- [ ] **Like Playlists**
-  - [ ] Implement functionality to allow users to like playlists by clicking a heart icon on each playlist tile.
-  - [ ] When the heart icon is clicked:
-    - [ ] If previously unliked:
-      - [ ] The like count on the playlist tile should increase by 1.
-      - [ ] There should be visual feedback (such as the heart turning a different color) to show that the playlist has been liked by the user.
-    - [ ] If previously liked:
-      - [ ] The like count on the playlist tile should decrease by 1.
-      - [ ] There should be visual feedback (such as the heart turning a different color) to show that the playlist has been unliked by the user.
-    - [ ] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** In addition to showcasing the above features, for ease of grading, please film yourself liking and unliking:
-      - [ ] a playlist with a like count of 0
-      - [ ] a playlist with a non-zero like count
+- [X] **Like Playlists**
+  - [X] Implement functionality to allow users to like playlists by clicking a heart icon on each playlist tile.
+  - [X] When the heart icon is clicked:
+    - [X] If previously unliked:
+      - [X] The like count on the playlist tile should increase by 1.
+      - [X] There should be visual feedback (such as the heart turning a different color) to show that the playlist has been liked by the user.
+    - [X] If previously liked:
+      - [X] The like count on the playlist tile should decrease by 1.
+      - [X] There should be visual feedback (such as the heart turning a different color) to show that the playlist has been unliked by the user.
+    - [X] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** In addition to showcasing the above features, for ease of grading, please film yourself liking and unliking:
+      - [X] a playlist with a like count of 0
+      - [X] a playlist with a non-zero like count
 
-- [ ] **Shuffle Songs**
-  - [ ] Enable users to shuffle the songs within a playlist using a shuffle button in the playlist's detail modal.
-  - [ ] When the shuffle button is clicked, the playlist's songs should display in a different order.
-  - [ ] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** In addition to showcasing the above features, for ease of grading, please show yourself shuffling the same playlist more than once. 
+- [X] **Shuffle Songs**
+  - [X] Enable users to shuffle the songs within a playlist using a shuffle button in the playlist's detail modal.
+  - [X] When the shuffle button is clicked, the playlist's songs should display in a different order.
+  - [X] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** In addition to showcasing the above features, for ease of grading, please show yourself shuffling the same playlist more than once. 
   
-- [ ] **Featured Page**
-  - [ ] Application includes a dedicated page that randomly selects and displays a playlist, showing the playlist’s:
-    - [ ] Playlist Image
-    - [ ] Playlist Name
-    - [ ] List of songs, including each song's:
-      - [ ] Title
-      - [ ] Artist
-      - [ ] Duration
-  - [ ] When the page is refreshed or reloaded, a new random playlist is displayed
+- [X] **Featured Page**
+  - [X] Application includes a dedicated page that randomly selects and displays a playlist, showing the playlist’s:
+    - [X] Playlist Image
+    - [X] Playlist Name
+    - [X] List of songs, including each song's:
+      - [X] Title
+      - [X] Artist
+      - [X] Duration
+  - [X] When the page is refreshed or reloaded, a new random playlist is displayed
     - For example, navigating to the all playlists page and then back to the featured playlist page should result in a new random playlist being displayed
     - Note that because your algorithm will not be truly random, it is possible that the same playlist will feature twice in a row. 
-    - [ ] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** In addition to showcasing the above features, for ease of grading, please show yourself refreshing the featured page more than once. 
-  - [ ] Application includes a navigation bar or some other mechanism such that users can navigate to the page with all playlists from the featured page and vice versa without using the browser's back and forward buttons. 
+    - [X] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** In addition to showcasing the above features, for ease of grading, please show yourself refreshing the featured page more than once. 
+  - [X] Application includes a navigation bar or some other mechanism such that users can navigate to the page with all playlists from the featured page and vice versa without using the browser's back and forward buttons. 
 
 #### STRETCH FEATURES
 
@@ -138,15 +138,15 @@ Deployed Application (**required**): [Music Playlist Explorer Deployed Site](ADD
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+Yes the topics did help especially with just becoming more comfortable with JavaScript in general. However I will say I felt pretty unprepared for the dynamic updating of the html with the javascript but the instructor demo helped a lot.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+For sure I would add a lot more styling and give it all more personality and make everything look more cohesive. I also would have loved to implement the search feature as part of the stretch feature.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+I feel that the adapting of the page to different screen sizes is really well. I also really like just the general layout of it all. the feature page at first didn't go at planned but then I was able to fix it up. Something I did notice others doing was the addition of an embed of spotify or just putting in an mp3 to be able to play something which I thought was really cool.
 
 ### Open-source libraries used
 
@@ -154,4 +154,4 @@ Add your response here
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+A special shoutout to Devarsh, Oliver, Jackie, and Heiryn
