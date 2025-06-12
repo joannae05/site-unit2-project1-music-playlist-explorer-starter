@@ -4,7 +4,7 @@ Submitted by: **Joanna Echeverri Porras**
 
 Estimated time spent: **#** hours spent in total
 
-Deployed Application (**required**): [Music Playlist Explorer Deployed Site](ADD_LINK_HERE)
+Deployed Application (**required**): [Music Playlist Explorer Deployed Site](https://site-unit2-project1-music-playlist-eight.vercel.app/index.html)
 
 ### Application Features
 
