@@ -11,17 +11,43 @@
 </head>
 <body>
     <header>
-        <!-- Your header content here -->
+        <h1 id="title">Music Playlist Explorer</h1>
+        <nav>
+            <ul>
+                <li><a href="featured.html">Featured</a></li>
+                <li><a href="index.html">All</a></li>
+            </ul>
+        </nav>
     </header>
 
     <main> 
-        <!-- Your main content here -->
+        <section id="playlist-cards">
+            <!-- to be dynamically added to-->
+        </section>
     </main>
 
+    <!-- Modal Structure -->
+    <div id="playlist-modal" class="modal-overlay">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <div class="modal-header">
+                <img src="" alt="Playlist Cover" id="modal-cover">
+                <div class="modal-header-text">
+                    <h1 id="modal-name"></h1>
+                    <h3 id="modal-creator"></h3>
+                </div>
+                <span class="shuffle-btn">
+                    <img src="assets/img/shuffle.png" alt="Shuffle sIcon">
+                </span>
+            </div>
+            <ul class="songs" id="modal-songs"></ul>
+        </div>
+    </div>
+
     <footer>
-        <!-- Your footer content here -->
+        <p>&copy; 2023 Music Playlist Explorer. Joanna Echeveri Porras.</p>
     </footer>
-    <script src="data/data.js"></script>
+    <!-- <script src="data/data.js"></script> -->
     <script src="script.js"></script>
 </body>
 </html>

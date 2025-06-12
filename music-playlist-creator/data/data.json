@@ -1,0 +1,308 @@
+{
+    "playlists": [
+        {
+            "name": "DeBÍ TiRAR MáS FOToS",
+            "cover": "assets/img/badbunny_cover.webp",
+            "creator": "Bad Bunny",
+            "likes": 0,
+            "songs": [
+                {
+                    "title": "Ocean Eyes",
+                    "img": "assets/img/song.png",
+                    "artist": "Billie Eilish",
+                    "duration": "3:20"
+                },
+                {
+                    "title": "Lose Yourself to Dance",
+                    "img": "assets/img/song.png",
+                    "artist": "Daft Punk",
+                    "duration": "5:53"
+                },
+                {
+                    "title": "Electric Feel",
+                    "img": "assets/img/song.png",
+                    "artist": "MGMT",
+                    "duration": "3:49"
+                },
+                {
+                    "title": "Sunset Lover",
+                    "img": "assets/img/song.png",
+                    "artist": "Petit Biscuit",
+                    "duration": "3:56"
+                },  
+                {
+                    "title": "Weightless",
+                    "img": "assets/img/song.png",
+                    "artist": "Marconi Union",
+                    "duration": "8:00"
+                }
+            ]
+        },
+        {
+            "name": "HIT ME HARD AND SOFT",
+            "cover": "assets/img/billie_cover.jpeg",
+            "creator": "Billie Eilish",
+            "likes": 0,
+            "songs": [
+                {
+                    "title": "Stronger",
+                    "img": "assets/img/song.png",
+                    "artist": "Kanye West",
+                    "duration": "5:11"
+                },
+                {
+                    "title": "Eye of the Tiger",
+                    "img": "assets/img/song.png",
+                    "artist": "Survivor",
+                    "duration": "4:05"
+                },
+                {
+                    "title": "Can't Hold Us",
+                    "img": "assets/img/song.png",
+                    "artist": "Macklemore & Ryan Lewis",
+                    "duration": "4:18"
+                },
+                {
+                    "title": "Uptown Funk",
+                    "img": "assets/img/song.png",
+                    "artist": "Mark Ronson ft. Bruno Mars",
+                    "duration": "4:30"
+                },
+                {
+                    "title": "Titanium",
+                    "img": "assets/img/song.png",
+                    "artist": "David Guetta ft. Sia",
+                    "duration": "4:05"
+                }
+            ]
+        },
+        {
+            "name": "Fruko el Grande",
+            "cover": "assets/img/fruko_cover.jpeg",
+            "creator": "Fruko Y Sus Tesos",
+            "likes": 0,
+            "songs": [
+                {
+                    "title": "Party Rock Anthem",
+                    "img": "assets/img/song.png",
+                    "artist": "LMFAO",
+                    "duration": "4:23"
+                },
+                {
+                    "title": "I Gotta Feeling",
+                    "img": "assets/img/song.png",
+                    "artist": "The Black Eyed Peas",
+                    "duration": "4:49"
+                },
+                {
+                    "title": "Don't Stop the Party",
+                    "img": "assets/img/song.png",
+                    "artist": "Pitbull ft. TJR",
+                    "duration": "3:24"
+                },
+                {
+                    "title": "Turn Down for What",
+                    "img": "assets/img/song.png",
+                    "artist": "DJ Snake & Lil Jon",
+                    "duration": "3:33"
+                },
+                {
+                    "title": "Despacito (Remix)",
+                    "img": "assets/img/song.png",
+                    "artist": "Luis Fonsi ft. Daddy Yankee & Justin Bieber",
+                    "duration": "3:48"
+                }
+            ]
+        },
+        {
+            "name": "Hamilton",
+            "cover": "assets/img/Hamilton_cover.jpeg",
+            "creator": "Original Hamilton Broadway Cast",
+            "likes": 0,
+            "songs": [
+                {
+                    "title": "Dog Days Are Over",
+                    "img": "assets/img/song.png",
+                    "artist": "Florence + The Machine",
+                    "duration": "4:12"
+                },
+                {
+                    "title": "Take Me Out",
+                    "img": "assets/img/song.png",
+                    "artist": "Franz Ferdinand",
+                    "duration": "3:57"
+                },
+                {
+                    "title": "Electric Feel",
+                    "img": "assets/img/song.png",
+                    "artist": "MGMT",
+                    "duration": "3:49"
+                },
+                {
+                    "title": "Pumped Up Kicks",
+                    "img": "assets/img/song.png",
+                    "artist": "Foster the People",
+                    "duration": "3:59"
+                },
+                {
+                    "title": "Young Folks",
+                    "img": "assets/img/song.png",
+                    "artist": "Peter Bjorn and John",
+                    "duration": "4:39"
+                }
+            ]
+        },
+        {
+            "name": "Red Moon in venus",
+            "cover": "assets/img/kali_cover.jpg",
+            "creator": "Kali Uchis",
+            "likes": 0,
+            "songs": [
+                {
+                    "title": "Bohemian Rhapsody",
+                    "img": "assets/img/song.png",
+                    "artist": "Queen",
+                    "duration": "5:55"
+                },
+                {
+                    "title": "Hotel California",
+                    "img": "assets/img/song.png",
+                    "artist": "Eagles",
+                    "duration": "6:30"
+                },
+                {
+                    "title": "Stairway to Heaven",
+                    "img": "assets/img/song.png",
+                    "artist": "Led Zeppelin",
+                    "duration": "8:02"
+                },
+                {
+                    "title": "Sweet Child O' Mine",
+                    "img": "assets/img/song.png",
+                    "artist": "Guns N' Roses",
+                    "duration": "5:56"
+                },
+                {
+                    "title": "Back in Black",
+                    "img": "assets/img/song.png",
+                    "artist": "AC/DC",
+                    "duration": "4:15"
+                }
+            ]
+        },
+        {
+            "name": "The New Abnormal",
+            "cover": "assets/img/thestrokes_cover.jpeg",
+            "creator": "The Strokes",
+            "likes": 0,
+            "songs": [
+                {
+                    "title": "Juicy",
+                    "img": "assets/img/song.png",
+                    "artist": "The Notorious B.I.G.",
+                    "duration": "5:02"
+                },
+                {
+                    "title": "N.Y. State of Mind",
+                    "img": "assets/img/song.png",
+                    "artist": "Nas",
+                    "duration": "4:54"
+                },
+                {
+                    "title": "California Love",
+                    "img": "assets/img/song.png",
+                    "artist": "2Pac ft. Dr. Dre",
+                    "duration": "4:45"
+                },
+                {
+                    "title": "C.R.E.A.M.",
+                    "img": "assets/img/song.png",
+                    "artist": "Wu-Tang Clan",
+                    "duration": "4:12"
+                },
+                {
+                    "title": "Lose Yourself",
+                    "img": "assets/img/song.png",
+                    "artist": "Eminem",
+                    "duration": "5:26"
+                }
+            ]
+        },
+        {
+            "name": "CHROMAKOPIA",
+            "cover": "assets/img/tyler_cover.jpg",
+            "creator": "Tyler, The Creator",
+            "likes": 0,
+            "songs": [
+                {
+                    "title": "Shape of You",
+                    "img": "assets/img/song.png",
+                    "artist": "Ed Sheeran",
+                    "duration": "3:53"
+                },
+                {
+                    "title": "Blinding Lights",
+                    "img": "assets/img/song.png",
+                    "artist": "The Weeknd",
+                    "duration": "3:20"
+                },
+                {
+                    "title": "Levitating",
+                    "img": "assets/img/song.png",
+                    "artist": "Dua Lipa ft. DaBaby",
+                    "duration": "3:23"
+                },
+                {
+                    "title": "Bad Guy",
+                    "img": "assets/img/song.png",
+                    "artist": "Billie Eilish",
+                    "duration": "3:14"
+                },
+                {
+                    "title": "...Baby One More Time",
+                    "img": "assets/img/song.png",
+                    "artist": "(You Drive Me) Crazy - Britney Spears",
+                    "duration": "3:32"
+                }
+            ]
+        },
+        {
+            "name": "empathogen",
+            "cover": "assets/img/willow_cover.jpg",
+            "creator": "WILLOW",
+            "likes": 0,
+            "songs": [
+                {
+                    "title": "Strobe",
+                    "img": "assets/img/song.png",
+                    "artist": "Deadmau5",
+                    "duration": "10:33"
+                },
+                {
+                    "title": "Titanium",
+                    "img": "assets/img/song.png",
+                    "artist": "David Guetta ft. Sia",
+                    "duration": "4:05"
+                },
+                {
+                    "title": "Wake Me Up",
+                    "img": "assets/img/song.png",
+                    "artist": "Avicii",
+                    "duration": "4:07"
+                },
+                {
+                    "title": "Animals",
+                    "img": "assets/img/song.png",
+                    "artist": "Martin Garrix",
+                    "duration": "5:03"
+                },
+                {
+                    "title": "Lean On",
+                    "img": "assets/img/song.png",
+                    "artist": "Major Lazer & DJ Snake ft. MØ",
+                    "duration": "2:56"
+                }
+            ]
+        }
+    ]
+}
