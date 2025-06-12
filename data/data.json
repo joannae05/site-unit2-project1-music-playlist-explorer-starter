@@ -4,7 +4,7 @@
             "name": "DeBÍ TiRAR MáS FOToS",
             "cover": "assets/img/badbunny_cover.webp",
             "creator": "Bad Bunny",
-            "likes": 0,
+            "likes": 5,
             "songs": [
                 {
                     "title": "Ocean Eyes",
@@ -42,7 +42,7 @@
             "name": "HIT ME HARD AND SOFT",
             "cover": "assets/img/billie_cover.jpeg",
             "creator": "Billie Eilish",
-            "likes": 0,
+            "likes": 6,
             "songs": [
                 {
                     "title": "Stronger",
@@ -80,7 +80,7 @@
             "name": "Fruko el Grande",
             "cover": "assets/img/fruko_cover.jpeg",
             "creator": "Fruko Y Sus Tesos",
-            "likes": 0,
+            "likes": 2,
             "songs": [
                 {
                     "title": "Party Rock Anthem",
@@ -156,7 +156,7 @@
             "name": "Red Moon in venus",
             "cover": "assets/img/kali_cover.jpg",
             "creator": "Kali Uchis",
-            "likes": 0,
+            "likes": 4,
             "songs": [
                 {
                     "title": "Bohemian Rhapsody",
@@ -232,7 +232,7 @@
             "name": "CHROMAKOPIA",
             "cover": "assets/img/tyler_cover.jpg",
             "creator": "Tyler, The Creator",
-            "likes": 0,
+            "likes": 3,
             "songs": [
                 {
                     "title": "Shape of You",
@@ -270,7 +270,7 @@
             "name": "empathogen",
             "cover": "assets/img/willow_cover.jpg",
             "creator": "WILLOW",
-            "likes": 0,
+            "likes": 1,
             "songs": [
                 {
                     "title": "Strobe",
